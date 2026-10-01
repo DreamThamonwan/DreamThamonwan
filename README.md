@@ -46,6 +46,6 @@ manual testing, browser and database checks, edge cases and Git diffs.
 
 ## Contact
 
-- LinkedIn: linkedin.com/in/thamonwan-nitatwichit-982566255
+- LinkedIn: https://www.linkedin.com/in/thamonwan-nitatwichit-982566255/
 - Email: dream_thamonwan@hotmail.com
 - Location: Chiang Mai, Thailand
