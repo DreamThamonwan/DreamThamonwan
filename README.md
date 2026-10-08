@@ -1,10 +1,10 @@
 # Thamonwan (Dream) Nitatwichit
 
-**Junior Software Developer | Web Applications | Databases | Testing**
+**Junior Software Developer | Web Applications | Data & Databases | Testing**
 
-Based in Chiang Mai, Thailand. Master of Computer Science graduate from the University of Wollongong with hands-on experience in WordPress systems, responsive web development, PHP/MySQL applications, software testing, and AI-assisted development.
+Based in Chiang Mai, Thailand. Master of Computer Science graduate from the University of Wollongong with hands-on experience in WordPress systems, responsive web development, PHP/MySQL applications, software testing, and academic work in data analytics and data-warehouse design.
 
-นักพัฒนาซอฟต์แวร์ระดับเริ่มต้นในจังหวัดเชียงใหม่ มีประสบการณ์ด้านเว็บแอปพลิเคชัน ระบบฐานข้อมูล WordPress การทดสอบซอฟต์แวร์ และการใช้ AI สนับสนุนกระบวนการพัฒนาอย่างรับผิดชอบ
+นักพัฒนาซอฟต์แวร์ระดับเริ่มต้นในจังหวัดเชียงใหม่ มีประสบการณ์ด้านเว็บแอปพลิเคชัน ระบบฐานข้อมูล WordPress การทดสอบซอฟต์แวร์ รวมถึงโครงงานด้านการวิเคราะห์ข้อมูลและการออกแบบคลังข้อมูล
 
 [LinkedIn](https://www.linkedin.com/in/thamonwan-nitatwichit-982566255/) | [Email](mailto:dream_thamonwan@hotmail.com) | [PlanEATary Live Demo](https://planeatary.netlify.app)
 
@@ -13,12 +13,14 @@ Based in Chiang Mai, Thailand. Master of Computer Science graduate from the Univ
 - Practical experience maintaining and troubleshooting client WordPress websites in an Australian digital agency
 - Front-end development with HTML, CSS, JavaScript, and Bootstrap
 - Database-driven application development with object-oriented PHP and MySQL
+- Python-based data cleaning, exploratory analysis, feature engineering, and visualisation
+- Academic experience in dimensional modelling, data cubes, star/snowflake schemas, and Hive
 - Git-based collaboration through branches and pull requests
 - Manual functional, responsive, cross-browser, and edge-case testing
 - Professional English developed through postgraduate study and work in Australia
 - Responsible use of ChatGPT and Codex with human review and verification
 
-## Featured work
+## Featured web development work
 
 ### PlanEATary Nutrition Web Application
 
@@ -54,6 +56,38 @@ A role-based web application for managing EV charging locations, customer sessio
 
 [Explore the repository and case study](https://github.com/DreamThamonwan/PHP-based-website)
 
+## Data and analytics
+
+### Social Network Misinformation Detection
+
+A team-based Big Data Analytics project exploring a social-network dataset. My work focused on data quality, exploratory analysis, feature engineering, and visualisation.
+
+**My contribution**
+
+- Assessed missingness and prepared relevant profile fields for analysis
+- Engineered account age and per-day activity features
+- Explored distributions, numerical correlations, and profile-colour variables
+- Prepared cleaned data and findings for the team's downstream modelling work
+
+**Technologies:** Python, pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+
+[Read my contribution case study](case-studies/social-network-misinformation.md) | [View the team repository](https://github.com/huuthienp/bda2) | [View my analysis code](https://github.com/huuthienp/bda2/blob/main/eda_pp_dream.py)
+
+### Big Data Management and Data Warehouse Design
+
+Individual university coursework covering data-cube design, dimensional modelling, conceptual warehouse design, Hive tables, and HQL queries.
+
+**Work demonstrated**
+
+- Defined facts, measures, dimensions, and hierarchies for analytical scenarios
+- Designed banking and university warehouse models
+- Produced star, snowflake, and denormalised schema alternatives
+- Created and queried Hive tables, including nested array-based structures
+
+**Technologies:** Hive, HQL, SQL concepts, dimensional modelling, UMLet
+
+[Read the case study](case-studies/big-data-management.md)
+
 ## Professional experience
 
 ### WordPress and Web Systems Intern
@@ -85,7 +119,10 @@ I remain responsible for the final result by:
 
 - **Programming:** JavaScript, PHP, Python, SQL, HTML5, CSS3
 - **Web:** Bootstrap 5, WordPress, responsive UI, forms, browser DevTools
-- **Data:** MySQL, relational modelling, CRUD operations, PHPMyAdmin
+- **Applications and databases:** MySQL, relational modelling, CRUD operations, object-oriented PHP, PHPMyAdmin
+- **Data analysis:** pandas, NumPy, Matplotlib, Seaborn, exploratory analysis, feature engineering, data visualisation
+- **Data modelling:** facts and dimensions, hierarchies, data cubes, star and snowflake schemas, Hive/HQL
+- **Academic data-platform exposure:** Hadoop/HDFS, MapReduce, HBase, Pig, Spark DataFrames, Spark SQL
 - **Workflow:** Git, GitHub, branches, pull requests, ticket-based delivery
 - **Testing:** Manual functional testing, responsive checks, cross-browser testing, edge cases
 - **AI tools:** ChatGPT, Codex
